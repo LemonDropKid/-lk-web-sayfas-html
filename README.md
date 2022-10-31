@@ -1,2 +1,2 @@
-#Kendimi ve sevdiğim bir diziyi html kullanarak tanıtmaya çalıştığım bir repo.
+Kendimi ve sevdiğim bir diziyi html kullanarak tanıtmaya çalıştığım bir repo.
 
